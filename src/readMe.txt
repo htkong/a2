@@ -1,0 +1,1 @@
+All database model schema are in the base.py. There are only two tables. Extensively using code from stackoverflow and SQLAlchemy 1.2 Documentation website. __init__.py contains all the routes endpoints. Also, database update is handled in there too.
